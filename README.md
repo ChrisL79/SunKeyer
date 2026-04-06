@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/26513149/README.md)
 # SunKeyer v1.0A
 
 **Voice Keyer for SunSDR Transceivers via TCI**
@@ -16,16 +15,16 @@ SunKeyer is a Windows voice keyer application designed specifically for SunSDR t
 ## Screenshots
 
 ### Light Mode
-![Light Mode](screenshots/LIGHT%20MODE.jpg)
+![Light Mode](SCREENSHOTS/LIGHT%20MODE.jpg)
 
 ### Dark Mode
-![Dark Mode](screenshots/DARK%20MODE.jpg)
+![Dark Mode](SCREENSHOTS/DARK%20MODE.jpg)
 
 ### Main Menu
-![Main Menu](screenshots/MAIN%20MENU.jpg)
+![Main Menu](SCREENSHOTS/MAIN%20MENU.jpg)
 
 ### Recording a Macro
-![Recording Button](screenshots/RECORDING%20BUTTON.jpg)
+![Recording Button](SCREENSHOTS/RECORDING%20BUTTON.jpg)
 
 ---
 
