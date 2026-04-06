@@ -8,7 +8,7 @@ Designed by Chris Lawton, M7JEX.
 
 ## Overview
 
-SunKeyer is a Windows voice keyer application designed specifically for SunSDR transceivers running ExpertSDR2 or ExpertSDR3. It connects directly to the radio via the **TCI (Transceiver Control Interface)** protocol over WebSocket — no VAC, no virtual audio cable, no sound card routing required. Audio is streamed directly into the radio.
+SunKeyer is a Windows voice keyer application designed specifically for SunSDR transceivers running ExpertSDR2 or ExpertSDR3. It connects directly to the radio via the **TCI (Transceiver Control Interface)** protocol over WebSocket. No virtual audio cable, no sound card routing required. Audio is streamed directly into the radio.
 
 ---
 
