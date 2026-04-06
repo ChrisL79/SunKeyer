@@ -30,17 +30,17 @@ SunKeyer is a Windows voice keyer application designed specifically for SunSDR t
 
 ## Features
 
-- **6 macro buttons** — Each independently named and recorded
-- **Direct TCI audio streaming** — Audio goes straight into ExpertSDR, no VAC needed
-- **Auto PTT** — Keys the radio automatically before playback, drops after
-- **Repeat mode** — Automatic CQ repeat with user-selectable interval and countdown timer
-- **VU meter** — Gradient bar with SAFE / WARN / CLIP zones, peak hold, dBFS readout
-- **VU Meter Always Active** — option to monitor mic level continuously
-- **Record Level slider** — controls recording gain independently
-- **Light and Dark mode** — switchable from the File menu, remembers your preference
-- **Display on top** — optional always-on-top window mode
-- **TX elapsed timer** — shows how long you have been transmitting
-- **Settings persistence** — all button names, recordings and settings saved between sessions
+- **6 macro buttons** — Each independently named and recorded.
+- **Direct TCI audio streaming** — Audio goes straight into ExpertSDR, no VAC needed.
+- **Auto PTT** — Keys the radio automatically before playback, drops after.
+- **Repeat mode** — Automatic CQ repeat with user-selectable interval and countdown timer.
+- **VU meter** — Gradient bar with SAFE / WARN / CLIP zones, peak hold, dBFS readout.
+- **VU Meter Always Active** — option to monitor mic level continuously.
+- **Record Level slider** — controls recording gain independently.
+- **Light and Dark mode** — switchable from the File menu, remembers your preference.
+- **Display on top** — optional always-on-top window mode.
+- **TX elapsed timer** — shows how long you have been transmitting.
+- **Settings persistence** — all button names, recordings and settings saved between sessions.
 
 ---
 
