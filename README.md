@@ -70,7 +70,7 @@ No additional software required. SunKeyer is fully standalone.
    - ExpertSDR2 default: **40001**
    - ExpertSDR3 default: **50001**
 5. In SunKeyer, enter `localhost` as the host and your port number
-6. Click **Connect** — the button will turn green when connected
+6. Click **Connect** The button will turn green when connected
 
 ---
 
@@ -78,7 +78,7 @@ No additional software required. SunKeyer is fully standalone.
 
 1. Make sure your microphone is selected under **File → Select Microphone**
 2. Press and hold the **REC** button on any macro slot
-3. Hold for 3 seconds — a countdown ring fills around the button
+3. Hold for 3 seconds. A countdown ring fills around the button
 4. When the ring completes the recording starts. The button flashes red to indicate macro is now being recorded
 5. Speak your message
 6. Press the button again to stop recording
