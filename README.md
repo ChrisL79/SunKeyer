@@ -108,13 +108,13 @@ No additional software required. SunKeyer is fully standalone.
 
 ## Deleting A Macro
 
-1 Right click on the macro name and confirm deletion
+1. Right click on the macro name and confirm deletion
 
 ---
 
 ## Renaming A Macro
 
-1 left double click on the macro name, then enter the amended name for the macro
+1. Left double click on the macro name, then enter the amended name for the macro
 
 ---
 
