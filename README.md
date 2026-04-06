@@ -2,7 +2,7 @@
 
 **Voice Keyer for SunSDR Transceivers via TCI**
 
-Designed by Chris Lawton, M7JEX. Somerset, UK.
+Designed by Chris Lawton, M7JEX.
 
 ---
 
