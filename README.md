@@ -1,3 +1,7 @@
+I make programs for myself if nothing exists that i exactly want. If they turn out to be half decent, i will share them with the world.
+
+I'm not a programmer! I just program for fun and to create something i need.
+
 # SunKeyer v1.0A
 
 **Voice Keyer for SunSDR Transceivers via TCI**
